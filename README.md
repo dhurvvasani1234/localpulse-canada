@@ -57,7 +57,8 @@ A community-building web application for discovering and participating in local 
 
 ### Prerequisites
 - Node.js 18+ 
-- npm or yarn
+- npm or yarn<img width="1907" height="921" alt="image" src="https://github.com/user-attachments/assets/2f7ddcd4-8a52-44b4-ac03-af3759d40950" />
+
 - Git
 
 ### Installation
@@ -66,3 +67,6 @@ A community-building web application for discovering and participating in local 
 ```bash
 git clone https://github.com/YOUR_USERNAME/localpulse-canada.git
 cd localpulse-canada
+
+
+![Uploading image.png…]()
