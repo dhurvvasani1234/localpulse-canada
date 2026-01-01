@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏙️ LocalPulse Canada
 
-## Getting Started
+A community-building web application for discovering and participating in local events across major Canadian cities. Built with Next.js 14, TypeScript, and SQLite.
 
-First, run the development server:
+![LocalPulse Canada Screenshot](https://via.placeholder.com/800x400/FF0000/FFFFFF?text=LocalPulse+Canada+Screenshot)
 
+## 🎯 Features
+
+### 🌐 **Public Features**
+- **City-Focused Events**: Browse events in Toronto, Montreal, Vancouver, Calgary, Ottawa, Edmonton
+- **Bilingual Support**: Full English/French content with language toggle
+- **Event Discovery**: Filter events by city, category, and date
+- **Community Discussions**: Comment on events (with moderation)
+- **Newsletter Subscription**: Stay updated with email notifications
+
+### 👨‍💼 **Admin Panel**
+- **Event Management**: Create, edit, delete community events
+- **Discussion Moderation**: Approve/reject user comments
+- **Subscriber Management**: View and export newsletter subscribers
+- **Analytics Dashboard**: Track engagement and growth metrics
+
+### 🚀 **Technical Features**
+- **Full-Stack Next.js 14** with App Router
+- **Type-Safe** with TypeScript
+- **Responsive Design** with Tailwind CSS
+- **Database** with SQLite (better-sqlite3)
+- **Email System** with Resend & React Email
+- **SEO Optimized** with structured data
+- **Mobile-First** responsive design
+
+## 📸 Screenshots
+
+| Homepage | Events Page | Admin Panel |
+|----------|-------------|-------------|
+| ![Home](https://via.placeholder.com/300x200/FF0000/FFFFFF?text=Home) | ![Events](https://via.placeholder.com/300x200/DC143C/FFFFFF?text=Events) | ![Admin](https://via.placeholder.com/300x200/8B0000/FFFFFF?text=Admin) |
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- Next.js 14 (App Router)
+- React 18
+- TypeScript
+- Tailwind CSS
+- Lucide React (Icons)
+
+**Backend:**
+- Next.js API Routes
+- SQLite with better-sqlite3
+- Resend (Email API)
+
+**Development:**
+- ESLint
+- PostCSS
+- Autoprefixer
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js 18+ 
+- npm or yarn
+- Git
+
+### Installation
+
+1. **Clone the repository**
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/YOUR_USERNAME/localpulse-canada.git
+cd localpulse-canada
