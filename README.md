@@ -36,7 +36,8 @@ A community-building web application for discovering and participating in local 
 |----------|-------------|-------------|
 | ![Home](<img width="1808" height="917" alt="image" src="https://github.com/user-attachments/assets/dde9e867-8655-4a56-bf79-0fb2ca5c0751" />
 ) | ![Events]<img width="1815" height="893" alt="image" src="https://github.com/user-attachments/assets/af77c00e-6735-455d-8a38-d8d1f98c1ae8" />
-) | ![Admin]() |
+) | ![Admin](<img width="1851" height="876" alt="image" src="https://github.com/user-attachments/assets/5585d0e5-70e5-4621-8981-19bee500961c" />
+) |
 
 ## 🛠️ Tech Stack
 
