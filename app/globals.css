@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 👇 REQUIRED for @apply in Tailwind v4 */
+/* @reference utilities; */
+
+:root {
+  --primary: #FF0000;
+  --secondary: #FFFFFF;
+  --accent: #DC143C;
+  --neutral: #F5F5F5;
+  --text: #2C2C2C;
+}
+
+body {
+  color: var(--text);
+  background: var(--neutral);
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-[var(--primary)] text-white px-4 py-2 rounded-lg hover:bg-[var(--accent)] transition-colors;
+  }
+
+  .btn-secondary {
+    @apply bg-white text-[var(--primary)] border border-[var(--primary)] px-4 py-2 rounded-lg hover:bg-gray-50 transition-colors;
+  }
+
+  .card {
+    @apply bg-white rounded-xl shadow-md p-6 hover:shadow-lg transition-shadow;
+  }
+}
