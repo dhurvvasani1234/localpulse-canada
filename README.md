@@ -69,4 +69,6 @@ git clone https://github.com/YOUR_USERNAME/localpulse-canada.git
 cd localpulse-canada
 
 
+<img width="1815" height="893" alt="image" src="https://github.com/user-attachments/assets/af77c00e-6735-455d-8a38-d8d1f98c1ae8" />
+<img width="1808" height="917" alt="image" src="https://github.com/user-attachments/assets/dde9e867-8655-4a56-bf79-0fb2ca5c0751" />
 ![Uploading image.png…]()
