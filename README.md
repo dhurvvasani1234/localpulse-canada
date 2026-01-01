@@ -3,6 +3,8 @@
 A community-building web application for discovering and participating in local events across major Canadian cities. Built with Next.js 14, TypeScript, and SQLite.
 
 ![LocalPulse Canada Screenshot](https://via.placeholder.com/800x400/FF0000/FFFFFF?text=LocalPulse+Canada+Screenshot)
+<img width="1801" height="943" alt="image" src="https://github.com/user-attachments/assets/c31250b4-90b7-4988-b004-5cc06c08bbe0" />
+
 
 ## 🎯 Features
 
@@ -32,7 +34,9 @@ A community-building web application for discovering and participating in local 
 
 | Homepage | Events Page | Admin Panel |
 |----------|-------------|-------------|
-| ![Home](https://via.placeholder.com/300x200/FF0000/FFFFFF?text=Home) | ![Events](https://via.placeholder.com/300x200/DC143C/FFFFFF?text=Events) | ![Admin](https://via.placeholder.com/300x200/8B0000/FFFFFF?text=Admin) |
+| ![Home](<img width="1808" height="917" alt="image" src="https://github.com/user-attachments/assets/dde9e867-8655-4a56-bf79-0fb2ca5c0751" />
+) | ![Events]<img width="1815" height="893" alt="image" src="https://github.com/user-attachments/assets/af77c00e-6735-455d-8a38-d8d1f98c1ae8" />
+) | ![Admin]() |
 
 ## 🛠️ Tech Stack
 
